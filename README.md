@@ -15,7 +15,7 @@ Example above is just a way to get cli to print an output like this:
 
 ```bash
 
-# The sum of all these numbers is 11 ! Say hello to Rust as well :D
+# The sum of all these numbers is 10 ! Say hello to Rust as well :D
 
 ```
 
